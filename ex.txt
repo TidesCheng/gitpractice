@@ -1,4 +1,8 @@
 A new file in repos.
 Git is a version control system.
 Git is free.
+<<<<<<< HEAD
 Add a new function.
+============
+Add second function.
+>>>>>>> secondFunc
