@@ -1,3 +1,4 @@
 A new file in repos.
 Git is a version control system.
 Git is free.
+Add second function.
